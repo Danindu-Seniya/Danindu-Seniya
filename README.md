@@ -12,7 +12,7 @@
   
   🌱 I’m currently learning **Docker, Sanity, Supabase**
   
-  ⚡ Fun fact **I am good at playing Fortnite**   
+  ⚡ Fun fact **I am good at Fortnite**   
 
   </div>
 
