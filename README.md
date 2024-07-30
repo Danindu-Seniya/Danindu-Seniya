@@ -8,7 +8,7 @@
 
 <div align="center">
   
-  🔭 I'm currently working on **a commercial website**
+  🔭 I'm currently working on **my side projects**
   
   🌱 I’m currently learning **Docker, Sanity, Supabase**
   
