@@ -10,7 +10,7 @@
   
   🔭 I'm currently working on **my side projects**
   
-  🌱 I’m currently learning **Docker, Sanity, Supabase**
+  🌱 I’m currently learning **C# and .Net**
   
   ⚡ Fun fact **I am good at Fortnite**   
 
